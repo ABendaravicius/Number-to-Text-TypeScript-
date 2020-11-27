@@ -21,3 +21,5 @@ You need to have `node` and `npm` installed on your machine.
 1. All test cases that are currently in `src/index.test.ts` must pass.
 1. Skip the word "and" for larger numbers, i.e. `two thousand one` instead of `two thousand and one`.
 1. The implementation must cover cases from `-99999` to `99999`.
+1. Modules converting number to word are not permitted.
+
