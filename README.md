@@ -2,7 +2,7 @@
 
 ### Description
 
-A program that takea a number and returns it in English representation. Example:
+A program that takes a number and returns it in English representation. Example:
 
 - *Input*: `420`
 - *Output*: `'four hundred twenty'`
